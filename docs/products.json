@@ -1,0 +1,62 @@
+[
+  {
+    "id": 12,
+    "name": "아이노스 수제 모짜렐라",
+    "english": "Mozzarella",
+    "unit": "100g",
+    "price": 6700,
+    "type": "cheese",
+    "image": "2b770851c7909.jpg",
+    "description": "신선한 우유의 담백함과 쫄깃하고 부드러운 식감을 살린 수제 모짜렐라"
+  },
+  {
+    "id": 8,
+    "name": "보코치니 치즈",
+    "english": "Bocconcini",
+    "unit": "100g",
+    "price": 9700,
+    "type": "cheese",
+    "image": "b653c4016c7f8.jpg",
+    "description": "한입 크기로 즐기는 부드럽고 촉촉한 프레시 모짜렐라 치즈"
+  },
+  {
+    "id": 17,
+    "name": "시그니처 드립백",
+    "english": "Signature",
+    "unit": "5개입",
+    "price": 12500,
+    "type": "coffee",
+    "image": "ec8abc2174a19.jpg",
+    "description": "아이노스의 시그니처 커피를 간편하게 즐기는 드립백 세트"
+  },
+  {
+    "id": 18,
+    "name": "인더라이트 드립백",
+    "english": "In the Light",
+    "unit": "5개입",
+    "price": 12500,
+    "type": "coffee",
+    "image": "e583f120e6d77.jpg",
+    "description": "산뜻한 스타일의 커피를 간편하게 즐길 수 있는 드립백 세트"
+  },
+  {
+    "id": 28,
+    "name": "토마토 바질 파스타 밀키트",
+    "english": "Tomato Basil Pasta Meal Kit",
+    "unit": "",
+    "price": 18900,
+    "type": "mealkit",
+    "image": "7f7264955651e.jpg",
+    "description": "토마토의 산뜻한 풍미와 바질 향을 살린 파스타 밀키트."
+  },
+  {
+    "id": 30,
+    "name": "아이노스 치즈 아카데미",
+    "english": "Cheese Academy",
+    "unit": "이론 + 실습",
+    "price": 120000,
+    "type": "academy",
+    "image": "6399e043790f4.jpg",
+    "description": "처음 치즈를 만들어보는 분도 어렵지 않게 참여할 수 있는 이론+실습 수업"
+  }
+]

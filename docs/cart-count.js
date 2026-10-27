@@ -1,0 +1,1 @@
+fetch('/api/cart').then(r=>r.json()).then(c=>document.querySelectorAll('[data-cart-count]').forEach(el=>el.textContent=c.count)).catch(()=>{});

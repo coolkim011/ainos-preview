@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./ainos-subset-3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(./ainos-subset-2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(./ainos-subset-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif KR';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./ainos-subset-0.ttf) format('truetype');
+}
+

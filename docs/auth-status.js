@@ -1,0 +1,1 @@
+fetch('/api/auth/me').then(r=>r.json()).then(({user})=>{document.querySelectorAll('[data-account-link]').forEach(el=>{el.href=window.AINOS_BASE+(user?'/account/':'/login/');el.setAttribute('aria-label',user?'내 계정':'로그인');el.title=user?'내 계정':'로그인';});}).catch(()=>{});
